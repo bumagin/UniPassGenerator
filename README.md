@@ -20,9 +20,9 @@ UniPassGenerator - простая, но довольно полезная про
 ## Изображение программы
 
 <p>
-    <img src="https://i.ibb.co/gwWKR3D/2022-12-10-224053.png" alt="Фотография 1" width="320">
-    <img src="https://i.ibb.co/Tr0ycpC/2022-12-10-224158.png" alt="Фотографя 2" width="320">
-    <img src="https://i.ibb.co/ZGhJWm8/2022-12-10-224227.png" alt="Фотография 3" width="320">
+    <img src="https://i.ibb.co/gwWKR3D/2022-12-10-224053.png" alt="Фотография 1" width="300">
+    <img src="https://i.ibb.co/Tr0ycpC/2022-12-10-224158.png" alt="Фотографя 2" width="300">
+    <img src="https://i.ibb.co/ZGhJWm8/2022-12-10-224227.png" alt="Фотография 3" width="300">
 </p>
 
 ## Developers
