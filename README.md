@@ -25,6 +25,6 @@ UniPassGenerator - простая, но довольно полезная про
     <img src="https://i.ibb.co/ZGhJWm8/2022-12-10-224227.png" alt="Фотография 3" width="270">
 </p>
 
-## Developers
+## Разработчик
 
 - [Bumagin](https://github.com/bumagin)
